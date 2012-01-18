@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{barabasi}
+A.-L. Barab\'{a}si and R.~Albert.
+\newblock Emergence of scaling in random networks.
+\newblock {\em Science}, 286:509--512, 1999.
+
+\bibitem{aging}
+S.~Dorogovtsev and J.~Mendes.
+\newblock Evolution of reference networks with aging.
+\newblock {\em Phys. Rev. E}, 62:1842--1845, 2000.
+
+\bibitem{big-idea}
+N.~Gabler.
+\newblock The elusive big idea.
+\newblock {\em The New York Times}, page SR1, 2011.
+
+\bibitem{goerlitz}
+O.~G\"orlitz, S.~Sizov, and S.~Staab.
+\newblock Pints: Peer-to-peer infrastructure for tagging systems.
+\newblock In {\em Proceedings of the Seventh International Workshop on
+  Peer-to-Peer Systems, IPTPS}, Tampa Bay, USA, 2 2008.
+
+\bibitem{gruhl}
+D.~Gruhl, R.~Guha, D.~Liben-Nowell, and A.~Tomkins.
+\newblock Infomation diffusion through blogspace.
+\newblock In {\em SIGKDD Explorations}, volume~6, pages 43--52, 2004.
+
+\bibitem{egypt}
+N.~Hassanpour.
+\newblock Media disruption exacerbates revolutionary unrest: Evidence from
+  mubarak's natural experiment.
+\newblock {\em APSA 2011 Annual Meeting Paper}, 2011.
+
+\bibitem{bursty-original}
+J.~Kleinberg.
+\newblock Bursty and hierarchical structure in streams.
+\newblock In {\em Proc. 8th ACM SIGKDD Intl. Conf. on Knowledge Discovery and
+  Data Mining}, 2002.
+
+\bibitem{bursty}
+R.~Kumar, J.~Novak, P.~Raghavan, and A.~Tomkins.
+\newblock On the bursty evolution of blogspace.
+\newblock {\em WWW '03}, pages 568--576, 2003.
+
+\bibitem{cascade}
+J.~Leskovec, M.~McGlohon, C.~Faloutsos, N.~Glance, and M.~Hurst.
+\newblock Cascading behavior in large blog graphs.
+\newblock In {\em Proc. SIAM International Conference on Data Mining}, 2007.
+
+\end{thebibliography}

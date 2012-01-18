@@ -1,0 +1,8 @@
+2003
+Average time: 120.453288398
+2004
+Average time: 122.580201573
+2005
+Average time: 139.53240658
+2006
+Average time: 123.544581699

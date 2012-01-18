@@ -1,0 +1,40 @@
+2003
+number of nodes: 106549
+slope: -2.748353617
+intercept: 10.7477732299
+r-value: -0.97545829422
+p-value: 3.22572016686e-31
+std err: 0.0924791763325
+mle estimate of alpha: 4.99836453664
+mle standard error: 0.0152852240972
+
+2004
+number of nodes: 1833989
+slope: -2.00383545072
+intercept: 11.8363316168
+r-value: -0.961545750009
+p-value: 3.48105967458e-209
+std err: 0.0297954750092
+mle estimate of alpha: 4.03513313036
+mle standard error: 0.00331263118325
+
+2005
+number of nodes: 16120787
+slope: -1.70871417557
+intercept: 12.5795656479
+r-value: -0.948912540465
+p-value: 0.0
+std err: 0.0150889301893
+mle estimate of alpha: 3.26098830698
+mle standard error: 0.00102464554733
+
+2006
+number of nodes: 54627807
+slope: -1.66453478119
+intercept: 13.2780633455
+r-value: -0.941550512764
+p-value: 0.0
+std err: 0.0116504914374
+mle estimate of alpha: 2.69510290758
+mle standard error: 0.000467376905837
+
